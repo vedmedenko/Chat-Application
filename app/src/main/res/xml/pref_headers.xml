@@ -1,0 +1,8 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <header
+        android:fragment="com.vedmedenko.chat.ui.activities.settings.SettingsActivity$GeneralPreferenceFragment"
+        android:icon="@drawable/ic_info_white_24px"
+        android:title="@string/pref_header_general" />
+
+</preference-headers>

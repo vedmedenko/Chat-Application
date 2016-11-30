@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Chat Application</string>
+
+    <string name="string_message_hint">Message</string>
+
+
+    <!-- Strings related to Settings -->
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_nickname">Nickname</string>
+    <string name="pref_default_nickname">Anonym</string>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "302469198211",
+    "firebase_url": "https://chat-85d6e.firebaseio.com",
+    "project_id": "chat-85d6e",
+    "storage_bucket": "chat-85d6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302469198211:android:33daedcad9a6bfa5",
+        "android_client_info": {
+          "package_name": "com.vedmedenko.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302469198211-vbhhlabk7sm2e6kof8vksvoghhhf5qcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vedmedenko.chat",
+            "certificate_hash": "4A1C1D355E3BB545CABB23BE233261BA669EB86A"
+          }
+        },
+        {
+          "client_id": "302469198211-92uv1r98vf9aksessd57q57a52do0a9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq3fQ8CvCKaVGNPCyLHM13D-F4XU65_XQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302469198211-92uv1r98vf9aksessd57q57a52do0a9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
